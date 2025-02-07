@@ -1,0 +1,6 @@
+@whisp_HostAddress = http://localhost:5240
+
+GET {{whisp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
